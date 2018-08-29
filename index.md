@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+### Sanjeev's first CS193 Lab
+
+# List of Things I like about CS193
+- Meets once a week
+- Learn useful information about Github
+- Compliments CS180
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -19,8 +26,9 @@ Syntax highlighted code block
 - List 
 hello hello hello
 test test test
-	hello hello hello
-	test test test
+hello hello hello
+test test test 
+### What I first changed was adding four lines of code of just alternating "hello hello hello" and "test test test"
 
 1. Numbered         
 2. List
